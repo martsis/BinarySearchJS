@@ -1,0 +1,14 @@
+{
+  "name": "binary-search-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Martsis",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.4.0"
+  }
+}
